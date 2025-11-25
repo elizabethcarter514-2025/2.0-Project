@@ -78,7 +78,8 @@ nav {
 }
 
 #about-me {
-   min-height: vh;
+   min-height: 16vh;
+
    display: flex;   
   flex-direction: column;    
 }
