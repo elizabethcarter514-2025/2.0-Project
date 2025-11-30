@@ -156,27 +156,31 @@ padding-top: 0px;
 }
 
 .about-me__img {
-    width: 100%;
-    max-width: 50px;
-    padding: 50px;
+ width: 100%;
+ max-width: 50px;
+ padding: 50px;
 }
 /* Tech - Stack */
 
 .language__img {
-   width: 100%;
-    max-width: 100px;
+ width: 100%;
+ max-width: 100px;
 }
 .language {
-  width: 25%;
+ width: 25%;
 }
 .language__img--wrapper {
-  display: flex;
-  justify-content: center;   
-  align-items: center;
-  width: 25%;
+ display: flex;
+ justify-content: center;   
+ align-items: center;
+ width: 25%;
 }
 
 .language__list {
-    display: flex;
-    width: 100%;  
+ display: flex;
+ width: 100%;  
+ flex-wrap: wrap;
+ margin: 0 auto;
+ justify-content: center;
+ gap: 20px;
 }
